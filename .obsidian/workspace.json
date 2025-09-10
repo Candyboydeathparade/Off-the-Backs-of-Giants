@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "499a218ef5120dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbcec5c9b5676828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4030ee93ead7447e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Baroque of Tyrkysia Session Notes/Session Zero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session Zero"
+            }
+          }
+        ]
+      },
+      {
+        "id": "46100d84690272d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246a9f3e53ffdd10",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d586b44a20cc04e",
+    "type": "split",
+    "children": [
+      {
+        "id": "789c679ee4372cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1747f8b049f467f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce943477e313e3fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f804c3570238b6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2264b82c78a54f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "d444b991f0326e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df20a639df16acad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Baroque of Tyrkysia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Baroque of Tyrkysia"
+            }
+          },
+          {
+            "id": "84eea1d2618faee2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Baroque of Tyrkysia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Baroque of Tyrkysia"
+            }
+          },
+          {
+            "id": "c4614223963e1df2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "045dc2b133147ffd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Baroque of Tyrkysia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Baroque of Tyrkysia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "4030ee93ead7447e",
+  "lastOpenFiles": [
+    "Shoutboard.canvas",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Settlements/Aargevult.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Settlements",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Settlements",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia.md",
+    "The Age of Fertile Graves/Historical Events/War/The Swidden.md",
+    "The Age of Fertile Graves/Axios.md",
+    "The Baroque of Tyrkysia Session Notes/Session Zero.md",
+    "The Age of Fertile Graves/Natural Resources/Natural Resources Compendium.md",
+    "Fantasy Natural Resoure(s).md",
+    "The Age of Fertile Graves/Historical Events/War",
+    "The Age of Fertile Graves/Historical Events",
+    "The Age of Fertile Graves/Natural Resources/Celestium.md",
+    "The Age of Fertile Graves/Natural Resources/Astrafire.md",
+    "The Age of Fertile Graves/Natural Resources",
+    "The Age of Fertile Graves/Historical Figures/Deities/Carshibaal.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar",
+    "The Age of Fertile Graves/Continents/The Worldcap.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations",
+    "The Age of Fertile Graves/Belief Systems/Hankies.md",
+    "The Age of Fertile Graves/Belief Systems",
+    "The Age of Fertile Graves/Continents",
+    "The Tyrullian Empire.md",
+    "Untitled.md",
+    "Brainstorm.md",
+    "Welcome.md"
+  ]
+}
