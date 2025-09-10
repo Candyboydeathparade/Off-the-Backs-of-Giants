@@ -183,11 +183,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "4030ee93ead7447e",
+  "active": "1747f8b049f467f1",
   "lastOpenFiles": [
+    "The Baroque of Tyrkysia.zip",
     "Shoutboard.canvas",
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia.md",
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Settlements/Aargevult.md",
