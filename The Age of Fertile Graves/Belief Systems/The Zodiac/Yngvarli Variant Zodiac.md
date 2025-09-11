@@ -1,1 +1,1 @@
-Within the kingdoms of 
+Within the kingdoms of Yngvar, astrology is practiced in a somewhat precarious place. It is neither encouraged nor outlawed by [[The Iron-Blooded Kings]] and is seen differently depending on one's social status. Typically, the middle class have little care for it, the upper class delight in the novelty of it, the pr
