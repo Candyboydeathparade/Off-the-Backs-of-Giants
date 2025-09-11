@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Baroque of Tyrkysia Session Notes/Session Zero.md",
+                "file": "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Valehaven/Valehaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Zero"
+              "title": "Valehaven"
             }
           }
         ]
@@ -71,7 +71,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -189,34 +189,41 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1747f8b049f467f1",
+  "active": "4030ee93ead7447e",
   "lastOpenFiles": [
-    "The Baroque of Tyrkysia.zip",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Iulia.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Valehaven/Valehaven.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Organizations/Hall of Heroes.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Tyrkysia.md",
+    "The Everwardens of Valehaven.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Organizations/Knights of the Evergarden.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Organizations/The Eyes of Heaven.md",
     "Shoutboard.canvas",
-    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia.md",
+    "The Age of Fertile Graves/Continents/The Worldcap",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Valehaven",
+    "Off the Backs of Giants Session Notes/Session Zero.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Yngvar.md",
+    "The Age of Fertile Graves/Axios.md",
+    "The Age of Fertile Graves/Organizations/The Pathfinder Society.md",
+    "The Age of Fertile Graves/Organizations",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Organizations",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Untitled.md",
+    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia",
+    "Untitled.canvas",
+    "The Age of Fertile Graves/Natural Resources/Natural Resources Compendium.md",
+    "The Baroque of Tyrkysia.zip",
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Settlements/Aargevult.md",
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia/Settlements",
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Settlements",
-    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar.md",
-    "The Age of Fertile Graves/Continents/Tyrkysia.md",
     "The Age of Fertile Graves/Historical Events/War/The Swidden.md",
-    "The Age of Fertile Graves/Axios.md",
-    "The Baroque of Tyrkysia Session Notes/Session Zero.md",
-    "The Age of Fertile Graves/Natural Resources/Natural Resources Compendium.md",
     "Fantasy Natural Resoure(s).md",
     "The Age of Fertile Graves/Historical Events/War",
     "The Age of Fertile Graves/Historical Events",
     "The Age of Fertile Graves/Natural Resources/Celestium.md",
     "The Age of Fertile Graves/Natural Resources/Astrafire.md",
-    "The Age of Fertile Graves/Natural Resources",
     "The Age of Fertile Graves/Historical Figures/Deities/Carshibaal.md",
-    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Iulia",
-    "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar",
-    "The Age of Fertile Graves/Continents/The Worldcap.md",
-    "The Age of Fertile Graves/Continents/Tyrkysia/Nations",
+    "The Age of Fertile Graves/Continents/The Worldcap/The Worldcap.md",
     "The Age of Fertile Graves/Belief Systems/Hankies.md",
-    "The Age of Fertile Graves/Belief Systems",
-    "The Age of Fertile Graves/Continents",
     "The Tyrullian Empire.md",
     "Untitled.md",
     "Brainstorm.md",

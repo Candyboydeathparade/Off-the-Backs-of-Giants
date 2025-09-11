@@ -15,13 +15,13 @@ Session Notes
 - Politics
 ## Tone
 - Yeens
-- Political / economic divides / drama
+- [[Yngvar|Political / economic divides / drama]]
 - Fantasy tropes
-- Modern fantasy?
+- [[Iulia|Modern fantasy?]]
 - Megafauna
 	- Magical
 	- Benevolent
-- Dragon apocalypse death cult
+- [[Carshibaal|Dragon apocalypse death cult]]
 ## Lesley
 - High Fantasy
 - Wacky, weird

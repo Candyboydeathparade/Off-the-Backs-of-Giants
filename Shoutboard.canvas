@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"24f69af31ab3c47e","type":"text","text":"# Evocative Names\n- Nevalonia\n- Delgara\n- Eteria\n- Chord\n- Savin\n- Tyrullus\n- Dagoll\n- Borsia\n- Duborsia\n- Morel\n- Ennd\n- Erriand\n- Coran\n- Astralis\n- Runebrook\n- Amberlint\n- Duskaria\n- Starhaven\n- Lorien\n- Sariphel\n- Tyrkysia\n- Osark\n- Lon\n- Lahaden\n- Aldornia\n- Auronvale\n- Lucinia\n- Percivalaria\n- Genevieve\n- Xaphagog","x":-120,"y":-260,"width":240,"height":1080}
+		{"id":"24f69af31ab3c47e","type":"text","text":"# Evocative Names\n- Nevalonia\n- Delgara\n- Eteria\n- Chord\n- Savin\n- Tyrullus\n- Dagoll\n- Morel\n- Ennd\n- Erriand\n- Coran\n- Runebrook\n- Amberlint\n- Duskaria\n- Starhaven\n- Sariphel\n- Osark\n- Lahaden\n- Aldornia\n- Auronvale\n- Lucinia\n- Percivalaria\n- Genevieve\n- Xaphagog","x":-120,"y":-260,"width":180,"height":920},
+		{"id":"59efbac814c1b792","type":"text","text":"# Everwardens\n- Everwardens\n- Verdant Alliance\n- Laserian Knights","x":180,"y":-240,"width":220,"height":160},
+		{"id":"eeed088b43eed920","type":"text","text":"# Purpose / Role\n- Maintain the balance of nature\n- Protect rare fauna from poachers \n- Maintain borders\n- Appease incurring fey\n\t- Uphold some secret deal\n\t- Perform some ritual on a time crunch\n\t- \n- Assist [[Iulia]]'s expansion through recommending methods / locations for ecologically-minded expansion\n- ","x":605,"y":-172,"width":355,"height":532}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"91a839b8dfc7423a","fromNode":"59efbac814c1b792","fromSide":"right","toNode":"eeed088b43eed920","toSide":"left"}
+	]
 }
