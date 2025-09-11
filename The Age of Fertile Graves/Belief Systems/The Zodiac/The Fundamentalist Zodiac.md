@@ -37,3 +37,16 @@ Brightness, Love, Humor, Shortsightedness, Overbearing
 Admirability, Leadership, Quick Thinking, Arrogance
 
 # Sign of the Elemental
+**Autumn**
+Adaptability, Versatility, Blending In, Non-belonging, Aimlessness
+
+# Sign of the Ironmonger
+**Autumn**
+Steadfastness, Solidity, Reliability, Bluntness, Stubbornness
+
+# Sign of the Duelist
+**Autumn**
+Accuracy, Honor, Competition, Dryness, Bitterness
+
+---
+![[Pasted image 20250911143450.png]]
