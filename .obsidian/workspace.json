@@ -31,10 +31,14 @@
             "id": "246a9f3e53ffdd10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Age of Fertile Graves/Belief Systems/The Zodiac/The Fundamentalist Zodiac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Fundamentalist Zodiac"
             }
           }
         ]
@@ -171,6 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -200,6 +205,10 @@
   },
   "active": "246a9f3e53ffdd10",
   "lastOpenFiles": [
+    "The Age of Fertile Graves/Belief Systems/The Zodiac/The Fundamentalist Zodiac.md",
+    "The Age of Fertile Graves/Belief Systems/The Zodiac",
+    "The Age of Fertile Graves/Oceans/Ocean Astralis.md",
+    "The Age of Fertile Graves/Oceans",
     "The Age of Fertile Graves/Axios.md",
     "Off the Backs of Giants Session Notes/Session Zero.md",
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Valehaven/Valehaven.md",
@@ -226,8 +235,6 @@
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Settlements",
     "The Age of Fertile Graves/Historical Events/War/The Swidden.md",
     "Fantasy Natural Resoure(s).md",
-    "The Age of Fertile Graves/Historical Events/War",
-    "The Age of Fertile Graves/Historical Events",
     "The Age of Fertile Graves/Natural Resources/Celestium.md",
     "The Age of Fertile Graves/Natural Resources/Astrafire.md",
     "The Age of Fertile Graves/Historical Figures/Deities/Carshibaal.md",
@@ -235,7 +242,6 @@
     "The Age of Fertile Graves/Belief Systems/Hankies.md",
     "The Tyrullian Empire.md",
     "Untitled.md",
-    "Brainstorm.md",
-    "Welcome.md"
+    "Brainstorm.md"
   ]
 }
