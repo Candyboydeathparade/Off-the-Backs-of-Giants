@@ -18,7 +18,7 @@ Session Notes
 - [[Yngvar|Political / economic divides / drama]]
 - Fantasy tropes
 - [[Iulia|Modern fantasy?]]
-- Megafauna
+- [[Valehaven|Megafauna]]
 	- Magical
 	- Benevolent
 - [[Carshibaal|Dragon apocalypse death cult]]
