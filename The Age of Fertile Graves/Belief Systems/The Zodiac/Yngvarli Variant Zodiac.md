@@ -31,4 +31,8 @@ Presence, Strength
 ## Sign of the Elemental -> Sign of the Magician
 Magic, Shifting
 
-## Sig
+## Sign of the Ironmonger -> Sign of the Smith
+Craft, Consistency
+
+## Sign of the Duelist -> Sign of the Warrior
+Skill, Audacity
