@@ -31,10 +31,14 @@
             "id": "246a9f3e53ffdd10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lines & Veils.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lines & Veils"
             }
           }
         ]
@@ -201,12 +205,13 @@
   },
   "active": "246a9f3e53ffdd10",
   "lastOpenFiles": [
+    "The Age of Fertile Graves/Axios.md",
+    "Lines & Veils.md",
     "The Age of Fertile Graves/Natural Resources/Natural Resources Compendium.md",
     "The Age of Fertile Graves/Belief Systems/The Zodiac/Yngvarli Variant Zodiac.md",
     "The Age of Fertile Graves/Organizations/Military/The Iron-Blooded Kings.md",
     "The Age of Fertile Graves/Organizations/Military",
     "The Age of Fertile Graves/Organizations/Educational",
-    "The Age of Fertile Graves/Axios.md",
     "The Age of Fertile Graves/Continents/Tyrkysia/Nations/Yngvar/Yngvar.md",
     "The Age of Fertile Graves/Belief Systems/The Zodiac/The Fundamentalist Zodiac.md",
     "The Age of Fertile Graves/Belief Systems/The Zodiac/Pasted image 20250911143450.png",
@@ -238,7 +243,6 @@
     "The Age of Fertile Graves/Natural Resources/Astrafire.md",
     "The Age of Fertile Graves/Historical Figures/Deities/Carshibaal.md",
     "The Age of Fertile Graves/Continents/The Worldcap/The Worldcap.md",
-    "The Age of Fertile Graves/Belief Systems/Hankies.md",
-    "The Tyrullian Empire.md"
+    "The Age of Fertile Graves/Belief Systems/Hankies.md"
   ]
 }
