@@ -3,7 +3,7 @@ Session Notes
 ## Mandy
 - [[Iulia|Magitech City]]
 - [[Tyrkysia|Post-post apocalypse]]
-- [[Natural Resources Compendium|Fantasy Natural Resoure(s)]]
+- [[Natural Resources Compendium|Fantasy Natural Resource(s)]]
 - Airships + Airship Warfare
 - Dinosaur environ / clan
 - Underground undead society
@@ -13,6 +13,7 @@ Session Notes
 - Magical bullshit plots
 - Misguided evil acts
 - Politics
+- Magical girl society attempts to save the world from [[Carshibaal|the apocalypse]]
 ## Tone
 - Yeens
 - [[Yngvar|Political / economic divides / drama]]

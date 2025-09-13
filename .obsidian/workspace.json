@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "46100d84690272d8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "246a9f3e53ffdd10",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2264b82c78a54f68",
@@ -199,11 +184,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "246a9f3e53ffdd10",
+  "active": "4030ee93ead7447e",
   "lastOpenFiles": [
     "The Age of Fertile Graves/Belief Systems/The Zodiac/The Fundamentalist Zodiac.md",
-    "Off the Backs of Giants Session Notes/Session Zero.md",
     "The Age of Fertile Graves/Belief Systems/The Zodiac/Yngvarli Variant Zodiac.md",
+    "Off the Backs of Giants Session Notes/Session Zero.md",
     "The Age of Fertile Graves/Axios.md",
     "Lines & Veils.md",
     "The Age of Fertile Graves/Natural Resources/Natural Resources Compendium.md",
