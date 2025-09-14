@@ -3,7 +3,7 @@ Democratic
 **Government** The Roundtable (Parliamentary Democracy)
 **Capital** [[Iulia]] (276,000)
 **Population** humans (Tyrkysian), elves, halflings, dragonblood, kobolds, dwarves, lizardfolk, fleshwarps
-**Languages** Common(Tyrkysian), Elvish, Fey, Draconic
+**Languages** Common(Tyrkysian), Elvish, Draconic
 **Religions**
 **Primary Exports** [[Celestium]], [[Astrafire]]
 **Enemies** Regressive, war-minded, autocratic governments
